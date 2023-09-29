@@ -1,5 +1,4 @@
 .nuxt/
-.output/
 *.vue
 .npmrc
 README.md
