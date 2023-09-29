@@ -1,0 +1,4 @@
+.nuxt/
+.gitignore
+.npmrc
+README.md
