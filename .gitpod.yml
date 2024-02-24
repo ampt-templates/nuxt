@@ -1,0 +1,3 @@
+tasks:
+  - init: npm i @ampt/cli -g
+    command: ampt
