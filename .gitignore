@@ -25,3 +25,6 @@ logs
 .env
 .env.*
 !.env.example
+.amptrc
+.ampt*rc
+.ampt/
